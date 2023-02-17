@@ -14,5 +14,8 @@
   "dependencies": {
     "mathjs": "^11.5.1",
     "phaser": "^3.55.2"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
   }
 }
