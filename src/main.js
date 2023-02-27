@@ -7,7 +7,7 @@ import Game from './scenes/Game'
 
 const config = {
     width:800,
-    length:500,
+    height:500,
     type: Phaser.AUTO,
     backgroundColor:'dee0de',
     physics:{
