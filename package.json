@@ -13,7 +13,8 @@
   "license": "ISC",
   "dependencies": {
     "mathjs": "^11.5.1",
-    "phaser": "^3.55.2"
+    "phaser": "^3.55.2",
+    "webfontloader": "^1.6.28"
   },
   "devDependencies": {
     "parcel": "^2.8.3"
