@@ -24,7 +24,7 @@ export default class GameOver extends Phaser.Scene{
 
     this.add.text(400,300,'Press Space to Continue',{ 
         fontFamily: PressStart2P})
-        .setOrigin
+        .setOrigin(0.5)
 
     this.input.keyboard.once('keydown-SPACE',()=>{
         this.scene.start(TitleScreen)
